@@ -1,0 +1,13 @@
+#box{
+    color: rgb(201, 95, 57);
+    background-color: rgb(108, 108, 150);
+    height:200px;
+    width: 300px;
+    font-size:20px;
+    font-weight:400px;
+    letter-spacing:20px;
+    text-align:center;
+    border: 10px solid yellow;
+    
+
+}
